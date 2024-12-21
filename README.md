@@ -13,6 +13,3 @@ This project uses **Naive Bayes** and **NLP** techniques to classify spam emails
 
 ## Enron Dataset:
 The dataset used in this project is the **Enron Email Dataset**, which can be found [here](https://www.kaggle.com/datasets/wcukierski/enron-email-dataset).
-
-## License
-MIT License
